@@ -16,7 +16,7 @@ Collection of workshops and practical labs completed during the official **Pytho
 ### Module 1: Python Basics
 - [x] **Build a Report Card Printer** (Workshop) - [`Build_a_Report_Card_Printer.py`](./01-python-basics/Build_a_Report_Card_Printer.py)
 - [x] **Build an Employee Profile Generator** (Workshop) - [`Employee_Profile_Generator.py`](01-python-basics/Employee_Profile_Generator.py)
-- [x] **Build a Bill Splitter** (Workshop) - [`Bill_Splitter.py`](./Bill_Splitter.py)
+- [x] **Build a Bill Splitter** (Workshop) - [`Bill_Splitter.py`](01-python-basics/Bill_Splitter.py)
 - [x] **Build a Movie Ticket Booking Calculator** (Workshop) - [`Build_a_Movie_Ticket_Booking_Calculator.py`](./Build_a_Movie_Ticket_Booking_Calculator.py)
 - [x] **Build a Travel Weather Planner** (Lab) - [`Build_a_Travel_Weather_Planner.py`](./Build_a_Travel_Weather_Planner.py)
 - [x] **Build an Apply Discount Function** (Lab) - [`Build_an_Apply_Discount_Function_Instructions.py`](./Build_an_Apply_Discount_Function_Instructions.py)
