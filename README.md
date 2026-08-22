@@ -26,7 +26,7 @@ Collection of workshops and practical labs completed during the official **Pytho
 ---
 
 ### Module 2: Loops and Sequences
-- [x] **Build a Pin Extractor** (Workshop) - [`Build_a_Pin_Extractor.py`](./Build_a_Pin_Extractor.py)
+- [x] **Build a Pin Extractor** (Workshop) - [`Build_a_Pin_Extractor.py`](02-loops-and-sequences/Build_a_Pin_Extractor.py)
 - [ ] **Build a Number Pattern Generator** (Workshop)
 
 ---
