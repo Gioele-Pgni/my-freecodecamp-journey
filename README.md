@@ -1,6 +1,6 @@
-# freeCodeCamp - Python Certification (v9)
+# freeCodeCamp - Python Certification 
 
-Collection of workshops and practical labs completed during the official **Python Certification (`python-v9`)** curriculum on freeCodeCamp.
+Collection of workshops and practical labs completed during the official **Python Certification ** curriculum on freeCodeCamp.
 
 
 ---
