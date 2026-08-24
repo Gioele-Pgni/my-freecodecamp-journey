@@ -45,4 +45,4 @@ Collection of workshops and practical labs completed during the official **Pytho
 * Git / GitHub
 
 ---
-*Last update: Build a Pin Extractor*
+
