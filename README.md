@@ -31,18 +31,11 @@ Collection of workshops and practical labs completed during the official **Pytho
 
 ---
 
-## Certification Projects
-- [ ] **Build a User Configuration Manager**
-- [ ] **Build a Budget App**
-- [ ] **Build a Polygon Area Calculator**
-- [ ] **Build a Hash Table**
-- [ ] **Implement the Tower of Hanoi Algorithm**
+### Module 3: Dictionaries and Sets
+- [x] **Build a Medical Data Validator** (Workshop) - [`Build_a_Medical_Data_Validator.py`](02-loops-and-sequences/Build_a_Pin_Extractor.py)
 
 ---
 
-## Technologies
-* Python 3
-* Git / GitHub
 
----
+
 
