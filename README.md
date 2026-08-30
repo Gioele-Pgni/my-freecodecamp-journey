@@ -33,7 +33,7 @@ Collection of workshops and practical labs completed during the official **Pytho
 
 ### Module 3: Dictionaries and Sets
 - [x] **Build a Medical Data Validator** (Workshop) - [`Build_a_Medical_Data_Validator.py`](03-dictionaries-and-sets/Build_a_Medical_Data_Validator.py)
-
+- [x] **Build a User Configuration Manager** (Certification Project) - [`Build_a_User_Configuration_Manager.py`](03-dictionaries-and-sets/Build_a_User_Configuration Manager.py)
 
 ---
 
