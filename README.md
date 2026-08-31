@@ -3,11 +3,6 @@
 Collection of workshops and practical labs completed during the official **Python Certification ** curriculum on freeCodeCamp.
 
 
----
-
-## Profile Info
-* **freeCodeCamp:** [freecodecamp.org/your-username](https://www.freecodecamp.org/your-username)
-* **GitHub:** [Gioele-Pgni](https://github.com/Gioele-Pgni)
 
 ---
 
