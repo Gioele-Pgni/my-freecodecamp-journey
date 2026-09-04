@@ -32,6 +32,12 @@ Collection of workshops and practical labs completed during the official **Pytho
 
 ---
 
+### Module 4: Error Handling
+- [x] **Debug an ISBN Validator** (Workshop) - [`Debug_an_ISBN_Validator.py`](04-error-handling/Debug_an_ISBN_Validator.py)
+
+
+---
+
 
 
 
